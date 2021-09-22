@@ -116,7 +116,7 @@
 
 .nav-menu {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .main-head__burger-btn {
